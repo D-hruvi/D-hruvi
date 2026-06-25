@@ -334,36 +334,6 @@ Designing and deploying AI-powered automation systems for the insurance data pro
 
 </div>
 
----
-
-## ◈ Current Focus
-
-```yaml
-current_focus:
-  learning:
-    - "Deep Learning with PyTorch and TensorFlow"
-    - "Generative AI, LLMs, RAG, and Prompt Engineering"
-    - "Data Structures & Algorithms in Python for placements"
-
-  building:
-    - "AI-powered automation systems for insurance and enterprise workflows"
-    - "Full-stack AI applications using Flask, React, and LLM APIs"
-    - "Personal portfolio projects in Machine Learning and Generative AI"
-
-  exploring:
-    - "AI agents and multi-agent workflows"
-    - "Model deployment, MLOps, and scalable AI systems"
-    - "Computer Vision and Natural Language Processing"
-
-  open_to:
-    - "AI / ML Internships (2027)"
-    - "Generative AI and Machine Learning projects"
-    - "Open source contributions in AI and developer tools"
-
-```
-
----
-
 ## ◈ Connect
 
 <div align="center">
