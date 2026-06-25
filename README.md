@@ -67,7 +67,7 @@ Beyond my internship, I enjoy exploring **Deep Learning, Generative AI, and Natu
 <div align="center">
 
 #### Languages
-[![My Skills](https://skillicons.dev/icons?i=python,js,ts,cpp,c,html,css&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,c,html,css&theme=dark)](https://skillicons.dev)
 
 #### Frontend
 [![My Skills](https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap&theme=dark)](https://skillicons.dev)
