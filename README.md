@@ -15,9 +15,7 @@
 <div align="center">
 
 ![B.Tech CSE](https://img.shields.io/badge/B.Tech%20CSE-Manipal%20University%20Jaipur-7C3AED?style=flat-square&logo=graduation-cap&logoColor=white)
-![CGPA](https://img.shields.io/badge/CGPA-8.0%20%2F%2010.0-6D28D9?style=flat-square&logo=star&logoColor=white)
-![Batch](https://img.shields.io/badge/Batch-2024--2028-5B21B6?style=flat-square&logo=calendar&logoColor=white)
-![Location](https://img.shields.io/badge/📍-Rajasthan%2C%20India-4C1D95?style=flat-square&logoColor=white)
+![Location](https://img.shields.io/badge/📍-Gurgaon%2C%20India-4C1D95?style=flat-square&logoColor=white)
 
 </div>
 
@@ -70,33 +68,14 @@ Beyond my internship, I enjoy exploring **Deep Learning, Generative AI, and Natu
 [![My Skills](https://skillicons.dev/icons?i=python,js,c,html,css&theme=dark)](https://skillicons.dev)
 
 #### Frontend
-[![My Skills](https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react&theme=dark)](https://skillicons.dev)
 
 #### Backend & Databases
-[![My Skills](https://skillicons.dev/icons?i=flask,fastapi,nodejs,postgres,mysql,sqlite,mongodb&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flask,fastapi,nodejs,postgres,mongodb&theme=dark)](https://skillicons.dev)
 
 #### AI / ML & Data
-[![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,jupyter,kafka&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,sklearn,jupyter,kafka&theme=dark)](https://skillicons.dev)
 
-</div>
-
----
-
-## ◈ AI / ML Expertise
-
-<div align="center">
-
-| Domain | Proficiency | Details |
-|:---|:---:|:---|
-| **Machine Learning** | ██████████ Expert | Supervised & unsupervised learning, feature engineering, model selection, hyperparameter tuning |
-| **Deep Learning** | █████████░ Advanced | Neural network architectures, CNNs, RNNs, LSTMs, transfer learning, fine-tuning |
-| **Large Language Models** | █████████░ Advanced | Prompt engineering, structured output generation, Groq API, Gemini API, Anthropic API |
-| **Natural Language Processing** | ████████░░ Proficient | Text classification, entity extraction, semantic search, tokenisation, embeddings |
-| **Data Engineering** | ████████░░ Proficient | ETL pipelines, Excel/CSV automation, pandas, numpy, data validation |
-| **Model Deployment** | ████████░░ Proficient | Flask APIs, async job queues, Gunicorn, Render, production-grade inference |
-
-
-</div>
 
 ---
 
