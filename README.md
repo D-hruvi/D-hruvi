@@ -10,13 +10,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=400&size=20&duration=3500&pause=1000&color=AAAAAA&center=true&vCenter=true&width=680&lines=AI+%2F+ML+Engineer+%E2%80%94+Deep+Learning+Practitioner;Full+Stack+Developer+%E2%80%94+Flask+%2B+React+%2F+Vite;Building+Intelligent+Systems+at+Scale;B.Tech+CSE+%40+Manipal+University+Jaipur)](https://git.io/typing-svg)
 
 
-<br/>
-
-![B.Tech CSE](https://img.shields.io/badge/B.Tech%20CSE-Manipal%20University%20Jaipur-171717?style=flat-square&logoColor=white)
-&nbsp;
-
-<br/>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruvi-rohilla)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-171717?style=flat-square&logo=github&logoColor=white)](https://github.com/D-hruvi)
