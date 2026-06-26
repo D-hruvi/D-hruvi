@@ -63,26 +63,6 @@ My work spans the full delivery stack: data preprocessing and model training, ba
 </div>
 ---
 
-
-## Certifications
-
-**NPTEL**
-&nbsp;
-![Design and Analysis of Algorithms](https://img.shields.io/badge/Design%20%26%20Analysis%20of%20Algorithms-NPTEL-7C3AED?style=for-the-badge&logo=academia&logoColor=white)
-
-&nbsp;
-![Data Structures and Algorithms using Java](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms%20using%20Java-NPTEL-6D28D9?style=for-the-badge&logo=openjdk&logoColor=white)
-
-**Udemy**
-&nbsp;
-![Python for Data Science and Machine Learning Bootcamp](https://img.shields.io/badge/Python%20for%20Data%20Science%20%26%20Machine%20Learning%20Bootcamp-Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white)
-
-**Red Hat Academy**
-&nbsp;
-![Red Hat System Administration I (RH124)](https://img.shields.io/badge/Red%20Hat%20System%20Administration%20I%20(RH124)-Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
-
----
-
 ## Coding Profiles
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-171717?style=flat-square&logo=leetcode&logoColor=FFA116)](https://leetcode.com/)
@@ -118,8 +98,6 @@ My work spans the full delivery stack: data preprocessing and model training, ba
 </div>
 
 ---
-
-
 
 <div align="center">
 
