@@ -1,12 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&reversal=true&animation=twinkling&text=Dhruvi%20%C2%B7%20AI%20%2F%20ML&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Building%20Intelligent%20Systems%20at%20Scale&descSize=16&descAlignY=62&descColor=dddddd" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Dhruvi%20%C2%B7%20AI%20%2F%20ML&fontSize=52&fontColor=ffffff&fontAlignY=50&desc=Building%20Intelligent%20Systems%20at%20Scale&descSize=16&descAlignY=65&descColor=dddddd&section=header&reversal=false" width="100%"/>
 
 </div>
 
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=400&size=20&duration=3500&pause=1000&color=AAAAAA&center=true&vCenter=true&width=680&lines=AI+%2F+ML+Engineer+%E2%80%94+Deep+Learning+Practitioner;Full+Stack+Developer+%E2%80%94+Flask+%2B+React+%2F+Vite;Building+Intelligent+Systems+at+Scale;B.Tech+CSE+%40+Manipal+University+Jaipur)](https://git.io/typing-svg)
+
 
 <br/>
 
