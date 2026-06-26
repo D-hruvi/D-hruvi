@@ -95,7 +95,7 @@ My work spans the full delivery stack: data preprocessing and model training, ba
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=D-hruvi&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&title_color=111111&icon_color=555555&text_color=333333&bg_color=fafafa"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=D-hruvi&show_icons=true&theme=default&count_private=true&hide_border=true&title_color=111111&icon_color=555555&text_color=333333&bg_color=fafafa"/>
 &nbsp;
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-hruvi&layout=compact&theme=default&hide_border=true&title_color=111111&text_color=333333&bg_color=fafafa&langs_count=8"/>
 
