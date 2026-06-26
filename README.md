@@ -61,7 +61,7 @@ My work spans the full delivery stack: data preprocessing and model training, ba
 [![Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,jupyter&theme=dark&perline=7)](https://skillicons.dev)
 
 </div>
----
+
 
 ## Coding Profiles
 
