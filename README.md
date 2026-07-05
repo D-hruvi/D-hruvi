@@ -26,68 +26,12 @@
 
 ## About
 
-I am a Computer Science and Engineering undergraduate at **Manipal University Jaipur** specialising in **Artificial Intelligence and Machine Learning**. My engineering philosophy is grounded in building systems that are not just functional but production-grade — scalable, maintainable, and measurably impactful.
 
-Currently interning at Fondos Technologies as a Software Development Intern, I develop scalable software solutions for automating complex insurance data processing workflows. My work involves designing and building backend services using Python and Flask, developing RESTful APIs, optimizing data processing pipelines, and contributing to full-stack applications.
+I'm a Computer Science student passionate about Artificial Intelligence, Machine Learning, and Full-Stack Development. I enjoy building practical software that solves real-world problems, from automation tools to AI-powered applications. I'm constantly learning, exploring new technologies, and contributing to projects that combine innovation with impactful solutions.
 
-My work spans the full delivery stack: data preprocessing and model training, backend API design, asynchronous job orchestration, and React-based frontend engineering. I approach every problem with a product engineering mindset — optimising for correctness, performance, and developer experience in equal measure.
-
-&nbsp;`Open To` — AI/ML Research Internships · Full Stack Engineering · Open Source · Research Partnerships
 
 ---
 
-## Tech Stack
-
-<div align="center">
-
-**Languages**
-
-[![Skills](https://skillicons.dev/icons?i=python,js,c,html,css&theme=dark&perline=7)](https://skillicons.dev)
-
-**Frontend**
-
-[![Skills](https://skillicons.dev/icons?i=react&theme=dark&perline=7)](https://skillicons.dev)
-
-**Backend & Databases**
-
-[![Skills](https://skillicons.dev/icons?i=flask,fastapi,nodejs,postgres&theme=dark&perline=7)](https://skillicons.dev)
-
-**Cloud, DevOps & Tooling**
-
-[![Skills](https://skillicons.dev/icons?i=git,github,vscode&theme=dark&perline=7)](https://skillicons.dev)
-
-**AI / ML**
-
-[![Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,jupyter&theme=dark&perline=7)](https://skillicons.dev)
-
-</div>
-
-
-## Coding Profiles
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-171717?style=flat-square&logo=leetcode&logoColor=FFA116)](https://leetcode.com/)
-&nbsp;
-[![Kaggle](https://img.shields.io/badge/Kaggle-171717?style=flat-square&logo=kaggle&logoColor=20BEFF)](https://www.kaggle.com/)
-
----
-
-## GitHub Analytics
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=D-hruvi&show_icons=true&theme=default&count_private=true&hide_border=true&title_color=111111&icon_color=555555&text_color=333333&bg_color=fafafa"/>
-&nbsp;
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-hruvi&layout=compact&theme=default&hide_border=true&title_color=111111&text_color=333333&bg_color=fafafa&langs_count=8"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=D-hruvi&theme=default&hide_border=true&background=fafafa&stroke=dddddd&ring=555555&fire=333333&currStreakNum=111111&sideNums=111111&currStreakLabel=555555&sideLabels=555555&dates=999999"/>
-
-</div>
-
----
 
 ## Contribution Activity
 
