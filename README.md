@@ -7,7 +7,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=400&size=20&duration=3500&pause=1000&color=AAAAAA&center=true&vCenter=true&width=680&lines=AI+%2F+ML+Engineer+%E2%80%94+Deep+Learning+Practitioner;Full+Stack+Developer+%E2%80%94+Flask+%2B+React+%2F+Vite;Building+Intelligent+Systems+at+Scale;B.Tech+CSE+%40+Manipal+University+Jaipur)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=400&size=20&duration=3500&pause=1000&color=AAAAAA&center=true&vCenter=true&width=680&lines=AI+%2F+ML+%E2%80%94+Deep+Learning;Full+Stack+Developement+%E2%80%94+Flask+%2B+React+%2F+Vite)](https://git.io/typing-svg)
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruvi-rohilla)
