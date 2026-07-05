@@ -35,13 +35,6 @@ I'm a Computer Science student passionate about Artificial Intelligence, Machine
 
 ## Contribution Activity
 
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=D-hruvi&bg_color=fafafa&color=555555&line=333333&point=111111&area=true&area_color=eeeeee&hide_border=true&custom_title=Contribution%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
 
 <div align="center">
 
